@@ -25,18 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
       
-      - name: Your recent activity in GitHub
+      - name: Recent GitHub Activity - Profile Readme
         # You may pin to the exact commit or the version.
-        uses: manueldevjour/github-activity-readme@v1.0.2
-        with:
-          # Your GitHub username
-          GH_USERNAME: raybuken # optional, default is ${{ github.repository_owner }}
-            # Commit message used while committing to the repo
-          COMMIT_MSG: '' # optional, default is :zap: Update README with the recent activity
-          # The maximum number of lines populated in your readme file
-          MAX_LINES: 7 # optional, default is 5
-          
-          
-            
-
-              
+        # uses: Readme-Workflows/recent-activity@aa0d01a1f4efdb8595986788eccbfdd430c73b8b
+        uses: Readme-Workflows/recent-activity@v2.4.1
