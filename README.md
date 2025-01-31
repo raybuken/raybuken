@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 # ⚡ Ultimos commits
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [raybuken/raybuken](https://github.com/raybuken/raybuken)<br>
-2. ⬆️ Pushed 1 commit(s) to [raybuken/raybuken](https://github.com/raybuken/raybuken)<br>
-3. ⬆️ Pushed 1 commit(s) to [raybuken/raybuken](https://github.com/raybuken/raybuken)<br>
-4. ⬆️ Pushed 1 commit(s) to [raybuken/raybuken](https://github.com/raybuken/raybuken)<br>
-5. ⬆️ Pushed 1 commit(s) to [raybuken/raybuken](https://github.com/raybuken/raybuken)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--END_ACTIVITY:last_update-->
